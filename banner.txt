@@ -5,14 +5,6 @@
 </style>
 </head>
 <bo<!DOCTYPE h<!DOCTYPE html>
-<h1 style="text-align: center;"><span style="color: #ffff00;"><strong>Selamat Datang</strong></span></h1>
-<p style="text-align: center;"><span style="color: #000000;"><strong>========</strong></span></p>
-<p style="text-align: center;"><span style="color: #ff00ff;">☑ Dilarang DDoS</span></p>
-<p style="text-align: center;"><span style="color: #ff00ff;">☑ Dilarang Carding/Hacking</span></p>
-<p style="text-align: center;"><span style="color: #ff00ff;">☑ Dilarang Seed Torrent</span></p>
-<p style="text-align: center;"><span style="color: #ff00ff;">☑ Dilarang SPAM</span></p>
-<p style="text-align: center;"><span style="color: #000000;"><strong>========</strong></span></p>
-<h3 style="text-align: center;"><span style="color: #00ffff;"><strong>Melanggar </strong></span><span>&gt;&nbsp;</span><span style="color: #ff0000;"><strong>Banned Permanen</strong></span></h3>
-<p style="text-align: center;"></p>
+<h1 style="text-align: center;"><span style="color: #ffff00;"><strong>Mohon Maaf Belum Ada Banner</strong></span></h1>
 </body>
 </html>
