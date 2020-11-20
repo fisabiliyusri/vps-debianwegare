@@ -1,4 +1,4 @@
-# cara melihay teknologi virtualisasi di vps anda
+# cara melihat teknologi virtualisasi di vps anda
 apt-get install virt-what && virt-what
 
 # vps teknologi virtualisasi kvm os debian 
