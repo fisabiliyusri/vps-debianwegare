@@ -7,6 +7,6 @@ wget -O install.sh "https://github.com/wegare123/vps-debian/blob/main/install-kv
 # vps vultar teknologi virtualisasi kvm os debian 10
 wget -O install.sh "https://github.com/wegare123/vps-debian/blob/main/install-kvm-vul.sh?raw=true" && chmod +x install.sh && ./install.sh
 
-# vps azure teknologi virtualisasi hyperv os debian 10
+# vps teknologi virtualisasi hyperv os debian 10
 wget -O install.sh "https://github.com/wegare123/vps-debian/blob/main/install-hyperv.sh?raw=true" && chmod +x install.sh && ./install.sh
 
