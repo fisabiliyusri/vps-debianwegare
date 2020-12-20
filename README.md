@@ -1,7 +1,7 @@
 # debian 10
 wget -O install.sh "https://github.com/wegare123/vps-debian/blob/main/install.sh?raw=true" && chmod +x install.sh && ./install.sh
 
-# untuk vps idcloud
+# untuk vps yang tidak langsung akses ke root
 #setiap login vps melalui terminal jalankan perintah "sudo -i"
 1. sudo -i 
 2. apt install wget -y && wget -O install.sh "https://github.com/wegare123/vps-debian/blob/main/install.sh?raw=true" && chmod +x install.sh && ./install.sh
