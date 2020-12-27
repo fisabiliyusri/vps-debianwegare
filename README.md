@@ -3,7 +3,7 @@ wget -O install.sh "https://github.com/wegare123/vps-debian/blob/main/install.sh
 
 # untuk vps yang tidak langsung akses ke root
 #setiap login vps melalui terminal jalankan perintah "sudo -i"
-1. sudo -i 
+1. sudo -i && echo $(hostname -I | cut -d\  -f1) $(hostname) | sudo tee -a /etc/hosts
 2. apt install wget -y && wget -O install.sh "https://github.com/wegare123/vps-debian/blob/main/install.sh?raw=true" && chmod +x install.sh && ./install.sh
 
 # catatan jika error saat mendownload silahkan jalankan perintah dibawah ini
